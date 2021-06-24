@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @ wm87
+- 👋 Hello, I'm @ Matthias
 - 👀 I'm interested in geospatial, process automation, databases / SQL, Linux, etc.
 - 🌱 I'm currently learning C# .NET
 - 💞️ I am looking for a job at ...
