@@ -1,7 +1,7 @@
 - 👋 Hello, I'm @ Matthias
 - 👀 I'm interested in geospatial, process automation, databases / SQL, Linux, etc.
 - 🌱 I'm currently learning C# .NET
-- 💞️ I am looking for a job at ...
+- 💞️ I am looking for a job in Geoinformatics, DB Administration, Linux Administration, Process Development, Automation etc.
 - 📫 How to reach me mwf102.mw@gmail.com
 
 <!---
