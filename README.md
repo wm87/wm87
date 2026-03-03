@@ -66,6 +66,31 @@ I aim to apply my technical expertise to drive efficiency and deliver tangible r
 * Developing custom command-line tools to streamline workflow.
 * Exploring load balancing techniques using HAProxy for high-availability systems.
 
+## 🚩 Flagship Projects (Subscription-Based Products)
+
+The following solutions are **available exclusively via subscription** (recurring payment model or managed service).
+
+### 🗺️ Geoportal-DE
+**Repository:** [https://github.com/wm87/Geoportal-DE  ](https://github.com/wm87/geoportal-de)
+
+Federated geospatial data portal aggregating WMS, WMTS, WFS and Atom services from German federal CSW catalogs, including visualization and feature download capabilities.
+
+**Access:** Subscription-only
+
+### 🌍 GeoAtom Explorer – INSPIRE & ISO
+**Repository:** [https://github.com/wm87/GeoAtom-Explorer  ](https://github.com/wm87/geo-atom-explorer)
+
+INSPIRE- and ISO-compliant Atom feed parser enabling structured metadata extraction, map-based dataset discovery, and selective download workflows.
+
+**Access:** Subscription-only
+
+### 🚗🚴🚶 RoutePilotX
+**Repository:** [https://github.com/wm87/RoutePilotX  ](https://github.com/wm87/route-pilotX)
+
+Custom-built routing & simulation engine leveraging OSRM with route playback, voice guidance, interactive elevation profiles, and self-hosted routing infrastructure.
+
+**Access:** Subscription-only
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages
@@ -113,7 +138,7 @@ I aim to apply my technical expertise to drive efficiency and deliver tangible r
 ---
 
 <p align="center">
-  <i>“Automate the boring stuff, engineer the interesting parts.”</i>
+  <i>“Digital transformation depends on structure, reliability, and disciplined execution.”</i>
 </p>
 
 <!--
