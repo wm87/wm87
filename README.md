@@ -70,6 +70,14 @@ I aim to apply my technical expertise to drive efficiency and deliver tangible r
 
 The following solutions are **available exclusively via subscription** (recurring payment model or managed service).
 
+### 🌐 Spatial Data Catalog
+
+**Repository:** https://github.com/wm87/spatial-data-catalog
+
+Professional platform for aggregating, indexing, and providing public geospatial data. Based on CKAN, it automatically harvests metadata from national, regional, and international geoportals, presenting them in a central searchable catalog.
+
+**Access:** Subscription-only
+
 ### 🗺️ Geoportal-DE
 **Repository:** [https://github.com/wm87/Geoportal-DE  ](https://github.com/wm87/geoportal-de)
 
