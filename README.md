@@ -38,9 +38,8 @@ I am actively enhancing my skills in:
 
 * C# .NET
 * Ansible
-* Computer Vision / Automated Image Recognition
-* Command-line Tool Development
-* Load Balancing with HAProxy
+* django
+* Web Apps
 
 ## 💼 Career Objectives
 
