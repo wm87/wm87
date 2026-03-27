@@ -91,6 +91,15 @@ INSPIRE- and ISO-compliant Atom feed parser enabling structured metadata extract
 
 **Access:** Subscription-only
 
+### 🏢 GEO//META-DE  
+**Repository:** https://github.com/wm87/geometa-de
+
+Enterprise platform for metadata management within the German Spatial Data Infrastructure (GDI-DE). It combines automated CSW harvesting, a powerful data catalog, and an integrated metadata editor within a centralized, scalable architecture.  
+
+Organizations benefit from a consolidated, legally compliant, and high-performance environment for managing, validating, and publishing geospatial metadata.  
+
+**Access:** Subscription-only  
+
 ### 🚗🚴🚶 RoutePilotX
 **Repository:** [https://github.com/wm87/RoutePilotX  ](https://github.com/wm87/route-pilotX)
 
